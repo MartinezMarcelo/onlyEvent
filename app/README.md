@@ -45,6 +45,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
+         <li><a href="#Config">Prerequisites</a></li>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
@@ -89,34 +90,32 @@ En esta parte se agrega los modulos o librerias  que utilizara la aplicación.
 
 <!-- GETTING STARTED -->
 ## Getting Started
+  * [Install Node with NVM](https://github.com/creationix/nvm).
+  * [Install YARN](https://yarnpkg.com/)
+  * [Install React Native](https://facebook.github.io/react-native/).
+  * [Install React Native Debugger](https://github.com/jhen0409/react-native)
 
-Instruciones para utilizar la aplicación 
+### Prerequisites :
+*create the local.properties file on `android/`*
+*Inside the file put this depending of your OS*
 
-### Prerequisites
+Windows:
+sdk.dir = ```sh 
+C:\\Users\\TU_USUARIO\\AppData\\Local\\Android\\Sdk```
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Linux:
+sdk.dir = ```sh
+/home/TU_USUARIO/Android/Sdk ```
 
 ### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
+* Run `yarn install` to install dependencies in the project directory.
+* Run the React Native Packager: `react-native start`.
+* Ensure you have started your Android simulator.
+* Run both platforms with `npm start`
+* Or run them individually:
+  * Run iOS with `yarn run ios`.
+  * Run Android with `yarn run android`.
+  
 
 <!-- USAGE EXAMPLES -->
 ## Usage
