@@ -5,9 +5,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 
 
 <!-- PROJECT LOGO -->
