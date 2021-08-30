@@ -25,7 +25,7 @@
     <a href="https://github.com/MartinezMarcelo/onlyEvent/tree/main/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/MartinezMarcelo/onlyEvent/tree/main/app">View readme</a>
+    <a href="https://marvelapp.com/prototype/gig3234">Prototype desing</a>
     ·
     <a href="https://github.com/MartinezMarcelo/onlyEvent/issues">Report Bug</a>
     ·
