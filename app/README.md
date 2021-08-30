@@ -45,7 +45,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-         <li><a href="#Config">Prerequisites</a></li>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
@@ -100,21 +99,29 @@ En esta parte se agrega los modulos o librerias  que utilizara la aplicación.
 *Inside the file put this depending of your OS*
 
 Windows:
-sdk.dir = ```sh 
+sdk.dir = ```
 C:\\Users\\TU_USUARIO\\AppData\\Local\\Android\\Sdk```
 
 Linux:
-sdk.dir = ```sh
-/home/TU_USUARIO/Android/Sdk ```
+sdk.dir = ```
+/home/TU_USUARIO/Android/Sdk```
 
 ### Installation
-* Run `yarn install` to install dependencies in the project directory.
-* Run the React Native Packager: `react-native start`.
+* Run ```yarn install``` to install dependencies in the project directory.
+* Run the React Native Packager: 
+```
+react-native start
+```
 * Ensure you have started your Android simulator.
-* Run both platforms with `npm start`
+* Run both platforms with 
+  ```
+  npm start
+   ```
 * Or run them individually:
-  * Run iOS with `yarn run ios`.
-  * Run Android with `yarn run android`.
+  * Run Android with 
+  ```
+  yarn run android
+  ```
   
 
 <!-- USAGE EXAMPLES -->
