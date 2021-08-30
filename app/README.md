@@ -36,10 +36,10 @@
   <p align="center">
     La aplicacion que estabas buscando para tus eventos
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/MartinezMarcelo/onlyEvent/tree/main/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/MartinezMarcelo/onlyEvent/">View readme</a>
+    <a href="https://github.com/MartinezMarcelo/onlyEvent/tree/main/app">View readme</a>
     ·
     <a href="https://github.com/MartinezMarcelo/onlyEvent/issues">Report Bug</a>
     ·
