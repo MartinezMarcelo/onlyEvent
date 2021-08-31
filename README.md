@@ -15,7 +15,7 @@
     <br />
     <a href="https://marvelapp.com/prototype/gig3234">Prototype desing</a>
     ·
-    <a href="https://github.com/MartinezMarcelo/onlyEvent/issues">Report Bug</a>
+    <a href="https://drive.google.com/file/d/1C9on76S8IAA4DukPIWg--mRnGzqIY09c/view?usp=sharing">Data Base Diagram</a>
     ·
     <a href="https://github.com/MartinezMarcelo/onlyEvent/issues">Request Feature</a>
   </p>
