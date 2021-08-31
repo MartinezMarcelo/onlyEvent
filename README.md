@@ -51,7 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]
 
 Es una aplicacion que tiene como funcionalidad ayudar a   la personas  para que encuentren   eventos publicos o privados si fue invitado. Tambien podran visualizar sus eventos agendados  y asistir , realizar preguntas  etc.
 
@@ -65,3 +65,7 @@ Caracteristicas:
 
 Caracteristicas Futuras :
 * chat con las personas que asistiran
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[product-screenshot]: images/screenshot.jpg
