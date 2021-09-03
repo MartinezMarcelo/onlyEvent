@@ -55,6 +55,8 @@ Caracteristicas:
 
 Caracteristicas Futuras :
 * chat con las personas que asistiran
+* multiples tags o inteereses para refinar las busquedas
+* personalizacion de foto de perfil y avatar del mapa
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
